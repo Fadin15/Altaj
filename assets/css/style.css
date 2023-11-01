@@ -1,14 +1,4 @@
-/**
-* Template Name: Delicious
-* Updated: May 30 2023 with Bootstrap v5.3.0
-* Template URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Poppins", sans-serif;
   color: #444444;
@@ -142,7 +132,7 @@ h6 {
 /*--------------------------------------------------------------
 # Book a table button Menu
 --------------------------------------------------------------*/
-.book-a-table-btn {
+/* .book-a-table-btn {
   background: #ffb03b;
   color: #fff;
   border-radius: 50px;
@@ -166,7 +156,7 @@ h6 {
     padding: 8px 20px;
     letter-spacing: 1px;
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -439,6 +429,14 @@ h6 {
   font-size: 48px;
   font-weight: 700;
 }
+#hero h3 {
+  color: #fff;
+  margin-bottom: 30px;
+  font-size: 35px;
+  font-weight: 550;
+}
+
+
 
 #hero h2 span {
   color: #ffb03b;
